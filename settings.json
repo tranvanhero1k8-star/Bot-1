@@ -8,7 +8,7 @@
   "server": {
     "ip": "HAD_World.aternos.me",
     "port": 11022,
-    "version": "1.18",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
@@ -65,7 +65,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
@@ -86,6 +86,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }

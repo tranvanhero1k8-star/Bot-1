@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sg-01.freezehost.pro",
-    "port": 8905,
-    "version": "1.21.11",
+    "ip": "HAD_World.aternos.me",
+    "port": 11022,
+    "version": "1.18",
     "try-creative": false
   },
   "position": {

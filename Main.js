@@ -27,7 +27,7 @@ botProcess.on("exit", (code, signal) => {
 });
 
 // ===== ⏰ 30 PHÚT =====
-const TIME_LIMIT = 72000000000000;
+const TIME_LIMIT = 2147483647;
 
 // ===== 💀 HÀM KILL FULL =====
 function forceKill() {
